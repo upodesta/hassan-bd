@@ -1,20 +1,31 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for post in site.posts %}
-    <url>
-        <loc>https://upodesta.gq{{ post.url | remove: 'index.html' }}</loc>
-    </url>
-    {% endfor %}
-
-    {% for page in site.pages %}
-    {% if page.layout != nil %}
-    {% if page.layout != 'feed' %}
-    <url>
-        <loc>https://upodesta.gq{{ page.url | remove: 'index.html' }}</loc>
-    </url>
-    {% endif %}
-    {% endif %}
-    {% endfor %}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<url>
+		<loc>https://upodesta.gq/404</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://upodesta.gq/404" />
+	</url>
+	<url>
+		<loc>https://upodesta.gq/contact/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://upodesta.gq/contact/" />
+	</url>
+	<url>
+		<loc>https://upodesta.gq/notes/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://upodesta.gq/notes/" />
+	</url>
+	<url>
+		<loc>https://upodesta.gq/swatches/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://upodesta.gq/swatches/" />
+	</url>
+	<url>
+		<loc>https://upodesta.gq/about/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://upodesta.gq/about/" />
+	</url>
+	<url>
+		<loc>https://upodesta.gq/cv/</loc>
+		<xhtml:link rel="alternate" hreflang="bn=bd" href="https://upodesta.gq/cv/" />
+	</url>
+	<url>
+		<loc>https://upodesta.gq/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://upodesta.gq/" />
+	</url>
 </urlset>
