@@ -1,31 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	<url>
-		<loc>https://upodesta.gq/404</loc>
-		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://upodesta.gq/404" />
+		<loc>https://taxadvisor.ml/404</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/404" />
 	</url>
+	
 	<url>
-		<loc>https://upodesta.gq/contact/</loc>
-		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://upodesta.gq/contact/" />
-	</url>
-	<url>
-		<loc>https://upodesta.gq/notes/</loc>
-		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://upodesta.gq/notes/" />
-	</url>
-	<url>
-		<loc>https://upodesta.gq/swatches/</loc>
-		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://upodesta.gq/swatches/" />
-	</url>
-	<url>
-		<loc>https://upodesta.gq/about/</loc>
-		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://upodesta.gq/about/" />
-	</url>
-	<url>
-		<loc>https://upodesta.gq/cv/</loc>
-		<xhtml:link rel="alternate" hreflang="bn=bd" href="https://upodesta.gq/cv/" />
-	</url>
-	<url>
-		<loc>https://upodesta.gq/</loc>
-		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://upodesta.gq/" />
+		<loc>https://taxadvisor.ml/</loc>
+		<xhtml:link rel="alternate" hreflang="bn-bd" href="https://taxadvisor.ml/" />
 	</url>
 </urlset>
