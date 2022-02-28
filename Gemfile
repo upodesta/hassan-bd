@@ -12,4 +12,6 @@ gem "github-pages"
 
 gem "somewhere_upodesta"
 
+gem "thor"
+
 gem "wdm"
