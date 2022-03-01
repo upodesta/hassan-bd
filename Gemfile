@@ -16,3 +16,5 @@ gem "thor"
 
 gem "wdm"
 
+gem "webrick"
+
