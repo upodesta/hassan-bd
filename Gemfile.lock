@@ -396,6 +396,7 @@ GEM
     unf_ext (0.0.8-x64-mingw32)
     unicode-display_width (1.8.0)
     wdm (0.1.1)
+    webrick (1.7.0)
     websocket-driver (0.7.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
@@ -412,6 +413,7 @@ DEPENDENCIES
   somewhere_upodesta
   thor
   wdm
+  webrick
 
 BUNDLED WITH
    2.3.8
