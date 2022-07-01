@@ -24,8 +24,8 @@ people:
       url: https://taxadvisor.com.bd
     - title: vimeo
       url: https://vimeo.com/taxadvisor
-    - title: globe
-      url: https://medium.com/@hassanandassociates
+    - title: github
+      url: https://github.com/Hassan-and-Associates
     - title: wordpress
       url: https://hassanandassociates.wordpress.com
     - title: globe
@@ -40,8 +40,6 @@ people:
   position: Co-ordinator
   social:
     
-    - title: github
-      url: https://github.com/Hassan-and-Associates
     - title: vk
       url: https://vk.com/hassanandassociates
     - title: pinterest
