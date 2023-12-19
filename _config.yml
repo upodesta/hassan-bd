@@ -24,8 +24,8 @@ people:
       url: https://taxadvisor.com.bd
     - title: vimeo
       url: https://vimeo.com/taxadvisor
-    - title: globe
-      url: https://medium.com/@hassanandassociates
+    - title: github
+      url: https://github.com/Hassan-and-Associates
     - title: wordpress
       url: https://hassanandassociates.wordpress.com
     - title: globe
@@ -33,15 +33,13 @@ people:
     
     
     
-  description: SYED HASSAN ALI, B.Com (Hons), M.Com (Accounting), LL.B is certified by the National Board of Revenue, Bangladesh since 1992.  He is a member of the Dhaka Taxes Bar Association. He is also a Company law expert. In the past, he has held the position of Consultant, Project Consultant, Advisor, Land Advisor and Company Secretary in some well-known local, multi-national and foreign companies. His individual varied carrier includes corporate tax and VAT management; formulation of corporate service rules, charter of duties, various type of manuals and policies; land and assets management; project feasibility study and analysis; management of multi-functional works
+  description: SYED HASSAN ALI, is an Income tax and Company law expert. In the past, he has held the position of Consultant, Project Consultant, Advisor, Land Advisor and Company Secretary in some well-known local, multi-national and foreign companies. His individual varied carrier includes corporate tax and VAT management; formulation of corporate service rules, charter of duties, various type of manuals and policies; land and assets management; project feasibility study and analysis; management of multi-functional works
 
 - name: Ekhlasur Rahman
   pic: 2
   position: Co-ordinator
   social:
     
-    - title: github
-      url: https://github.com/Hassan-and-Associates
     - title: vk
       url: https://vk.com/hassanandassociates
     - title: pinterest
@@ -49,7 +47,7 @@ people:
     - title: google 
       url: https://sites.google.com/site/taxadvisorbd/
     
-  description: Ekhlasur Rahman is living and working in Dhaka, Bangladesh. He joined the Hassan and Associates in 2000. As the first person of contact at Hassan and Associates, he answers all phone calls and respond to inquiry emails. His responsibility also include scheduling appointments for our clients, as well as the firm's invoicing and billing. His close attention to detail is a skill I subject as I review the subject matter for completeness prior to a discussion meeting with our firm. He routinely correspond with the clients of the Hassan and Associates, as well as provides initial guidelines. He complete each task with a smile and look forward to being of assistance to each clients
+  description: Ekhlasur Rahman as the first person of contact at Hassan and Associates, he answers all phone calls and respond to inquiry emails. His responsibility also include scheduling appointments for our clients, as well as the firm's invoicing and billing. His close attention to detail is a skill I subject as I review the subject matter for completeness prior to a discussion meeting with our firm. He routinely correspond with the clients of the Hassan and Associates, as well as provides initial guidelines. He complete each task with a smile and look forward to being of assistance to each clients
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
